@@ -11,7 +11,7 @@ namespace bombskal2
     {
         static void Main(string[] args)
         {
-            Process.Start("bomb.exe");/////////
+            Process.Start("bomb.exe");//////////
         }
     }
 }
